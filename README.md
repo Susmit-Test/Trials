@@ -1,6 +1,6 @@
 # Trials
 
-This is a Testing Repository.(check)
+This is a Testing Repository.
 
 ## License
 
